@@ -1,0 +1,16 @@
+name: DMIDetection
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch=1.13.0
+  - torchvision
+  - numpy
+  - pandas
+  - scikit-learn
+  - pillow
+  - pip
+  - pip:
+      - sagemaker

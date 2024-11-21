@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+weights
+2211.00680v1.pdf
+create_package.py
+model.tar.gz
+dm_model/model/model.pth
